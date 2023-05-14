@@ -19,8 +19,7 @@ import java.io.File;
  * @since 2022-05-15
  */
 public class Main {
-
-    public static final String wdPath = new File(System.getProperty("user.dir")).getParent() /*+ "/proj-lab/graphics"*/;
+    public static final String wdPath = new File(System.getProperty("user.dir")).getParent() + "/iet-hf-2023-authentic/proj-lab-main/graphics";
 
     public static void main(String[] args) {
         System.out.println(wdPath);
