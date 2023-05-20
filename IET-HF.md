@@ -8,6 +8,6 @@
 
 A **Szoftver projekt laboratórium tantárgy feladatát** fogjuk tesztelni a következő négy módszerrel:
 - Manuális kód átvizsgálás az alkalmazás egy részére + Statikus analízis eszköz futtatása és jelzett hibák átnézése (SonarCloud, VS Code Analyzer).
-- Deployment segítése (Docker)
+- Deployment segítése (Docker konténerizáció)
 - Nem-funkcionális jellemzők vizsgálata (teljesítmény, stresszteszt, biztonság, használhatóság)
-- UI tesztek készítése (Selenium)
+- Manuális tesztek írása (Tervek, Végrehajtás, Eredmények)
